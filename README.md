@@ -40,7 +40,7 @@ h3 {
     </div>
     <div id="content">
       <h1>Rachel Barr</h1>
-      <h2>Senior om Greenville, South Carolina</h2>
+      <h2>Senior in Greenville, South Carolina</h2>
         
          <p>I am senior in high school, taking duel credit classes at Bob Jones University. I work at Hidden Treasure Christian School, which is a special needs school connected to Faith Baptist Church of Taylors, SC. I live in Greenville, SC right now, but I’m originally from Ohio.</p>
          <p>
